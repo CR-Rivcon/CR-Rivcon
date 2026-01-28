@@ -15,8 +15,9 @@ Me apasiona transformar tareas manuales y repetitivas en flujos de trabajo efici
 - **Herramientas:** Git, GitHub, Postman, Proxmox, Linux.
 
 ### 📈 Proyectos Destacados
-- **[CurriCon](link-a-tu-repo):** Analizador de CVs con IA (Claude API) y Python.
-- **[Ticket-Auto](link-a-tu-repo):** Automatización de carga de tickets en ServiceNow con Selenium.
+- **[CurriCon]:** Analizador de CVs con IA (Claude API) y Python.
+- **[Ticket-Auto]:** Automatización de carga de tickets en ServiceNow con Selenium.
 
 ---
 📫 **Contacto:** criverac.dev@outlook.com | [LinkedIn] https://www.linkedin.com/in/cristopher-rivera-concha/
+
